@@ -12,7 +12,7 @@ import jp.co.sss.lms.service.ContractService;
 
 /**
  * 契約情報コントローラー
- * 
+ * （テストメッセージ追加）
  * @author 東京ITスクール
  */
 @Controller
